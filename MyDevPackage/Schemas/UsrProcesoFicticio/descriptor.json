@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a6169126-1d85-42de-bbfb-a4cb91fd900d",
+    "Name": "UsrProcesoFicticio",
+    "ModifiedOnUtc": "\/Date(1687548303000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Proceso ficticio",
+    "DependsOn": []
+  }
+}
