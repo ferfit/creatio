@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9316bb46-e341-49a0-b9fb-15ad467dc160",
+    "Name": "UsrTipoPropiedadClassic",
+    "ModifiedOnUtc": "\/Date(1687784982000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Tipo de propiedad",
+    "DependsOn": []
+  }
+}

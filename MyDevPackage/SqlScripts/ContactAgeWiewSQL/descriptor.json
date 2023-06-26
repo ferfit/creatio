@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "ab743459-5ba6-7cf0-07b4-dc9e5f3b0006",
+    "Name": "ContactAgeWiewSQL",
+    "DBEngineType": 2,
+    "InstallType": 0,
+    "ModifiedOnUtc": "\/Date(1687789481000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
